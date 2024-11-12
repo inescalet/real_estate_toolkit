@@ -1,0 +1,8 @@
+.DS_Store
+.RData
+.Rapp.history
+.CFUserTextEncoding
+*.pyc 
+__pycache__/
+.env
+.venv
