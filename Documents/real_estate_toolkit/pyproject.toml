@@ -1,0 +1,22 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "real_estate_toolkit"
+version = "0.1.0"
+authors = [
+    "Ines Calet <ines.calet01@estudiant.upf.edu>",
+    "Iao Armengol <iao.armengol01@estudiant.upf.edu>",
+    "Aina Olesti <aina.olesti01@estudiant.upf.edu>"
+]
+description = "Real Estate Analysis Toolkit Project"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8"
+pandas = "*"
+numpy = "*"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "*"
