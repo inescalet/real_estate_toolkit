@@ -2,7 +2,10 @@
 name = "real-estate-toolkit"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Inés Calet <ines.calet01@estudiant.upf.edu>",
+        "Aina Olesti <aina.olesti01@estudiant.upf.edu>",
+        "Iao Armengol <iao.armengol01@estudiant.upf.edu>",
+        "Manar Chentouf <manar.chentouf01@estudiant.upf.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
